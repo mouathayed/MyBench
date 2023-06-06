@@ -1,16 +1,2 @@
-# mybench
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MyBench represents my inaugural foray into developing a Flutter application, serving as the culmination of my final year project and a transformative internship experience with 'Carthage Solutions' company. I collaborated closely with my colleague, Dhaw Amri, who demonstrated proficiency in backend development utilizing Node.js and adeptly managed the database using Postgres. Meanwhile, I assumed the role of crafting the mobile application utilizing Flutter. Through this collaborative synergy, we achieved the successful delivery of a polished, professional-grade solution.
+the database link: https://github.com/dhaou290/backend 
